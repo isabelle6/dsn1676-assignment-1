@@ -34,3 +34,11 @@ html {
     width: 1.2em;
     vertical-align: middle;
 }
+
+.box-bg {
+    background-color: #87714F;
+}
+
+.icons {
+    width: 5em;
+}
