@@ -42,15 +42,17 @@ body {
 
 .box-bg {
     background-color: #87714F;
+    color: #fff;
 }
 
 .icons {
     width: 5em;
+    display: block;
+    margin: 0 auto;
 }
 
 .images {
     width: 100%;
-    display: block;
 }
 
 .border {
